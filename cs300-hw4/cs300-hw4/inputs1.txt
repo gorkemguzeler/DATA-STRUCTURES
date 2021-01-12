@@ -1,0 +1,102 @@
+Konya Bursa Ankara Sakarya Istanbul Bolu Bodrum
+A1 B1 C1 A2 B2 C2
+4
+print
+reserve_seat Ahmet Konya A1 0
+reserve_seat Kamer Bursa A1 1
+reserve_seat Cemal Ankara A1 2
+reserve_seat Elif Konya B1 2
+reserve_seat Mehmet Bursa B2 1
+reserve_seat Reyyan Bursa B1 3
+print
+reserve_seat Albert Ankara B1 2
+reserve_seat Gizem Konya C1 1
+reserve_seat Batuhan Konya C1 2
+reserve_seat Pelinsu Bursa C1 3
+reserve_seat Atahan Ankara C1 1
+print
+reserve_seat Fatih Ankara C1 2
+reserve_seat Selim Konya A2 1
+reserve_seat Banu Bursa A2 2
+cancel_reservation Utku
+reserve_seat Utku Ankara A2 0
+cancel_reservation Utku
+reserve_seat Soner Konya B2 2
+reserve_seat Taha Bursa B2 0
+get_seat Dua
+reserve_seat Dua Ankara B2 1
+get_seat Dua
+reserve_seat Meriam Bursa C2 2
+print
+reserve_seat_by_row Emre C1
+reserve_seat Albert Ankara B1 2
+reserve_seat Gizem Konya C1 1
+reserve_seat Batuhan Konya C1 2
+reserve_seat Pelinsu Bursa C1 3
+reserve_seat Atahan Ankara C1 1
+reserve_seat_by_row melih C1
+reserve_seat_by_row canan C1
+reserve_seat_by_row faruk C1
+reserve_seat_by_row mehmet C1
+reserve_seat_by_row altar C1
+reserve_seat_by_row verstapen C1
+reserve_seat_by_row bob C1
+reserve_seat_by_row Ricardo C1
+reserve_seat_by_row Serhat C1
+reserve_seat_by_row Perez C1
+reserve_seat_by_row albon C1
+eserve_seat_by_row Enzo C1
+reserve_seat_by_row Senna C1
+reserve_seat_by_row lauda C1
+reserve_seat_by_row Prost C1
+reserve_seat_by_row mich C1
+reserve_seat_by_row Jim C1
+reserve_seat_by_row Vettel C1
+reserve_seat_by_row alonzo C1
+reserve_seat_by_row clark C1
+reserve_seat_by_row Leclerc C1
+reserve_seat_by_row Alex C1
+eserve_seat_by_row  hunt C1
+reserve_seat_by_row cam C1
+reserve_seat_by_row Schu C1
+reserve_seat_by_row hunt C1
+reserve_seat_by_row Alex C1
+reserve_seat_by_row perez C1
+reserve_seat botas Ankara C1 1
+print
+reserve_seat_by_row Emre2 C2
+reserve_seat Albert2 Ankara B1 2
+reserve_seat Gizem2 Konya C2 1
+reserve_seat Batuhan2 Konya C2 2
+reserve_seat Pelinsu2 Bursa C2 3
+reserve_seat Atahan2 Ankara C2 1
+reserve_seat_by_row melih2 C2
+reserve_seat_by_row canan2 C2
+reserve_seat_by_row faruk2 C2
+reserve_seat_by_row mehmet2 C2
+reserve_seat_by_row altar2 C2
+reserve_seat_by_row verstapen2 C2
+reserve_seat_by_row bob2 C2
+reserve_seat_by_row Ricardo2 C2
+reserve_seat_by_row Serhat2 C2
+reserve_seat_by_row Perez2 C2
+reserve_seat_by_row albon2 C2
+reserve_seat_by_row Enzo2 C2
+reserve_seat_by_row Senna2 C2
+reserve_seat_by_row lauda2 C2
+reserve_seat_by_row Prost2 C2
+reserve_seat_by_row mich2 C2
+reserve_seat_by_row Jim2 C2
+reserve_seat_by_row Vettel2 C2
+reserve_seat_by_row alonzo2 C2
+reserve_seat_by_row clark2 C2
+reserve_seat_by_row Leclerc2 C2
+reserve_seat_by_row Alex2 C2
+reserve_seat_by_row  hunt2 C2
+reserve_seat_by_row cam2 C2
+reserve_seat_by_row Schu2 C2
+reserve_seat_by_row hunt2 C2
+reserve_seat_by_row Alex2 C2
+reserve_seat_by_row perez2 C2
+reserve_seat botas Ankara2 C2 1
+print

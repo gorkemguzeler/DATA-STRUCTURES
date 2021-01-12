@@ -1,0 +1,517 @@
+
+Konya
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Bursa
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Ankara
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Sakarya
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Istanbul
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Bolu
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Bodrum
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Ahmet has reserved Konya A1-0
+Kamer has reserved Bursa A1-1
+Cemal has reserved Ankara A1-2
+Elif has reserved Konya B1-2
+Mehmet has reserved Bursa B2-1
+Reyyan has reserved Bursa B1-3
+
+Konya
+~~~~~~~
+A1 : Ahm --- --- --- 
+B1 : --- --- Eli --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Bursa
+~~~~~~~
+A1 : --- Kam --- --- 
+B1 : --- --- --- Rey 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- Meh --- --- 
+C2 : --- --- --- --- 
+=======
+
+Ankara
+~~~~~~~
+A1 : --- --- Cem --- 
+B1 : --- --- --- --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Sakarya
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Istanbul
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Bolu
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Bodrum
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Albert has reserved Ankara B1-2
+Gizem has reserved Konya C1-1
+Batuhan has reserved Konya C1-2
+Pelinsu has reserved Bursa C1-3
+Atahan has reserved Ankara C1-1
+
+Konya
+~~~~~~~
+A1 : Ahm --- --- --- 
+B1 : --- --- Eli --- 
+C1 : --- Giz Bat --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Bursa
+~~~~~~~
+A1 : --- Kam --- --- 
+B1 : --- --- --- Rey 
+C1 : --- --- --- Pel 
+A2 : --- --- --- --- 
+B2 : --- Meh --- --- 
+C2 : --- --- --- --- 
+=======
+
+Ankara
+~~~~~~~
+A1 : --- --- Cem --- 
+B1 : --- --- Alb --- 
+C1 : --- Ata --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Sakarya
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Istanbul
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Bolu
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Bodrum
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Fatih has reserved Ankara C1-2
+Selim has reserved Konya A2-1
+Banu has reserved Bursa A2-2
+Could not cancel the reservation for Utku; no reservation found!
+Utku has reserved Ankara A2-0
+Cancelled the reservation of Utku
+Soner has reserved Konya B2-2
+Taha has reserved Bursa B2-0
+There is no reservation made for Dua!
+Dua has reserved Ankara B2-1
+Found that Dua has a reservation in Ankara B2-1
+Meriam has reserved Bursa C2-2
+
+Konya
+~~~~~~~
+A1 : Ahm --- --- --- 
+B1 : --- --- Eli --- 
+C1 : --- Giz Bat --- 
+A2 : --- Sel --- --- 
+B2 : --- --- Son --- 
+C2 : --- --- --- --- 
+=======
+
+Bursa
+~~~~~~~
+A1 : --- Kam --- --- 
+B1 : --- --- --- Rey 
+C1 : --- --- --- Pel 
+A2 : --- --- Ban --- 
+B2 : Tah Meh --- --- 
+C2 : --- --- Mer --- 
+=======
+
+Ankara
+~~~~~~~
+A1 : --- --- Cem --- 
+B1 : --- --- Alb --- 
+C1 : --- Ata Fat --- 
+A2 : --- --- --- --- 
+B2 : --- Dua --- --- 
+C2 : --- --- --- --- 
+=======
+
+Sakarya
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Istanbul
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Bolu
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Bodrum
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : --- --- --- --- 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Emre has reserved Sakarya C1-0 by emptiest block
+Albert could not reserve a seat!
+Gizem could not reserve a seat!
+Batuhan could not reserve a seat!
+Pelinsu could not reserve a seat!
+Atahan could not reserve a seat!
+melih has reserved Istanbul C1-0 by emptiest block
+canan has reserved Bolu C1-0 by emptiest block
+faruk has reserved Bodrum C1-0 by emptiest block
+mehmet has reserved Bursa C1-0 by emptiest block
+altar has reserved Sakarya C1-1 by emptiest block
+verstapen has reserved Istanbul C1-1 by emptiest block
+bob has reserved Bolu C1-1 by emptiest block
+Ricardo has reserved Bodrum C1-1 by emptiest block
+Serhat has reserved Konya C1-0 by emptiest block
+Perez has reserved Bursa C1-1 by emptiest block
+albon has reserved Ankara C1-0 by emptiest block
+Senna has reserved Sakarya C1-2 by emptiest block
+lauda has reserved Istanbul C1-2 by emptiest block
+Prost has reserved Bolu C1-2 by emptiest block
+mich has reserved Bodrum C1-2 by emptiest block
+Jim has reserved Konya C1-3 by emptiest block
+Vettel has reserved Bursa C1-2 by emptiest block
+alonzo has reserved Ankara C1-3 by emptiest block
+clark has reserved Sakarya C1-3 by emptiest block
+Leclerc has reserved Istanbul C1-3 by emptiest block
+Alex has reserved Bolu C1-3 by emptiest block
+cam has reserved Bodrum C1-3 by emptiest block
+Schu could not reserve a seat!
+hunt could not reserve a seat!
+Alex could not reserve a seat!
+perez could not reserve a seat!
+botas could not reserve a seat!
+
+Konya
+~~~~~~~
+A1 : Ahm --- --- --- 
+B1 : --- --- Eli --- 
+C1 : Ser Giz Bat Jim 
+A2 : --- Sel --- --- 
+B2 : --- --- Son --- 
+C2 : --- --- --- --- 
+=======
+
+Bursa
+~~~~~~~
+A1 : --- Kam --- --- 
+B1 : --- --- --- Rey 
+C1 : meh Per Vet Pel 
+A2 : --- --- Ban --- 
+B2 : Tah Meh --- --- 
+C2 : --- --- Mer --- 
+=======
+
+Ankara
+~~~~~~~
+A1 : --- --- Cem --- 
+B1 : --- --- Alb --- 
+C1 : alb Ata Fat alo 
+A2 : --- --- --- --- 
+B2 : --- Dua --- --- 
+C2 : --- --- --- --- 
+=======
+
+Sakarya
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : Emr alt Sen cla 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Istanbul
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : mel ver lau Lec 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Bolu
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : can bob Pro Ale 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Bodrum
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : far Ric mic cam 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : --- --- --- --- 
+=======
+
+Emre2 has reserved Konya C2-0 by emptiest block
+Albert2 could not reserve a seat!
+Gizem2 has reserved Konya C2-1
+Batuhan2 has reserved Konya C2-2
+Pelinsu2 has reserved Bursa C2-3
+Atahan2 has reserved Ankara C2-1
+melih2 has reserved Sakarya C2-0 by emptiest block
+canan2 has reserved Istanbul C2-0 by emptiest block
+faruk2 has reserved Bolu C2-0 by emptiest block
+mehmet2 has reserved Bodrum C2-0 by emptiest block
+altar2 has reserved Ankara C2-0 by emptiest block
+verstapen2 has reserved Sakarya C2-1 by emptiest block
+bob2 has reserved Istanbul C2-1 by emptiest block
+Ricardo2 has reserved Bolu C2-1 by emptiest block
+Serhat2 has reserved Bodrum C2-1 by emptiest block
+Perez2 has reserved Bursa C2-0 by emptiest block
+albon2 has reserved Ankara C2-2 by emptiest block
+Enzo2 has reserved Sakarya C2-2 by emptiest block
+Senna2 has reserved Istanbul C2-2 by emptiest block
+lauda2 has reserved Bolu C2-2 by emptiest block
+Prost2 has reserved Bodrum C2-2 by emptiest block
+mich2 has reserved Konya C2-3 by emptiest block
+Jim2 has reserved Bursa C2-1 by emptiest block
+Vettel2 has reserved Ankara C2-3 by emptiest block
+alonzo2 has reserved Sakarya C2-3 by emptiest block
+clark2 has reserved Istanbul C2-3 by emptiest block
+Leclerc2 has reserved Bolu C2-3 by emptiest block
+Alex2 has reserved Bodrum C2-3 by emptiest block
+hunt2 could not reserve a seat!
+cam2 could not reserve a seat!
+Schu2 could not reserve a seat!
+hunt2 could not reserve a seat!
+Alex2 could not reserve a seat!
+perez2 could not reserve a seat!
+botas has reserved Ankara2 C2-1
+
+Konya
+~~~~~~~
+A1 : Ahm --- --- --- 
+B1 : --- --- Eli --- 
+C1 : Ser Giz Bat Jim 
+A2 : --- Sel --- --- 
+B2 : --- --- Son --- 
+C2 : Emr Giz Bat mic 
+=======
+
+Bursa
+~~~~~~~
+A1 : --- Kam --- --- 
+B1 : --- --- --- Rey 
+C1 : meh Per Vet Pel 
+A2 : --- --- Ban --- 
+B2 : Tah Meh --- --- 
+C2 : Per Jim Mer Pel 
+=======
+
+Ankara
+~~~~~~~
+A1 : --- --- Cem --- 
+B1 : --- --- Alb --- 
+C1 : alb Ata Fat alo 
+A2 : --- --- --- --- 
+B2 : --- Dua --- --- 
+C2 : alt Ata alb Vet 
+=======
+
+Sakarya
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : Emr alt Sen cla 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : mel ver Enz alo 
+=======
+
+Istanbul
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : mel ver lau Lec 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : can bob Sen cla 
+=======
+
+Bolu
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : can bob Pro Ale 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : far Ric lau Lec 
+=======
+
+Bodrum
+~~~~~~~
+A1 : --- --- --- --- 
+B1 : --- --- --- --- 
+C1 : far Ric mic cam 
+A2 : --- --- --- --- 
+B2 : --- --- --- --- 
+C2 : meh Ser Pro Ale 
+=======
+
